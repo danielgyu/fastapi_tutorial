@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/git,macos,vim,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,macos,vim,python
+venv
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
