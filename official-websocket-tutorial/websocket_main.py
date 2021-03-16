@@ -2,7 +2,7 @@ from fastapi.responses import HTMLResponse
 from fastapi import (Cookie, Depends, FastAPI, Query, WebSocket,
 WebSocketDisconnect, status)
 
-from chat_html import html, advanced_html, broadcast_html
+from static.chat_html import html, advanced_html, broadcast_html
 from connection_manager import ConnectionManager
 from typing import Optional
 
